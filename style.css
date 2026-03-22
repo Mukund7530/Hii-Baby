@@ -76,11 +76,6 @@ body {
 /* HERO SECTION */
 .hero {
   padding: 80px 30px;
-  background: #faf7f3;
-  background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-floating-love-red-white-diagonal-balloons-background-picture-image_1166772.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .hero-container {
